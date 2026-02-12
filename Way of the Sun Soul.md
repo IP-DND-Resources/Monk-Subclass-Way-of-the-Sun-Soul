@@ -29,7 +29,7 @@ You can expend 1 Focus Point to make the special attack twice as a Bonus action.
 When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
 
 ### Level 6: Sunlight
-As a Magic Action, you can spend 2 Focus Points to channel pure sunlight into objects. 
+As a Magic Action, you can expend 2 Focus Points to channel pure sunlight into objects. 
 
 You touch an object and for the next 1 hour, sunlight spreads and fills a 30-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight. 
 
@@ -42,14 +42,14 @@ You gain the ability to channel your focus into a searing wave of energy.
 
 As a Bonus Action, you can expend 2 Focus Points to create a searing wave of energy in a 15-foot cone. Each creature in that area makes a Dexterity saving throw, taking Radiant damage equal to two rolls of your Martial Arts Die on a failed save, or half as much damage on a successful one. 
 
-For each additional Focus Point you spend, up to a maxiumum number of points equal to your Wisdom modifier (minimum of 1), increases the number of Martial Arts die you roll by 1 and increases the size of the cone by 5 feet, up to a maximum of 30 feet.
+For each additional Focus Point you expend, up to a maxiumum number of points equal to your Wisdom modifier (minimum of 1), increases the number of Martial Arts die you roll by 1 and increases the size of the cone by 5 feet, up to a maximum of 30 feet.
 
 ### Level 11: Blinding Sunburst
 You create a devestating burst of sunlight. As a Magic action, you can expend 3 Focus Points to create an orb and hurl it at a point you choose within 150 feet, where it erupts for a brief but deadly instant into a 20-foot-radius sphere of radiant sunlight. Alternatively, you can form a beam of sunlight in a 5-foot-wide, 60-foot-long Line extending from you.
 
 Each creature in that area makes Consitution saving throw, taking Radiant damage equal to 5 rolls of your Martial Arts die on a failed save, or half as much on a successful one. If a creature fails this save by 5 or more it also has the Blinded condition until the end of their next turn.
 
-You can spend 1 additional Focus Point to reroll any number of these die, but you must keep the new roll.
+You can expend 1 additional Focus Point to reroll any number of these die, but you must keep the new roll.
 
 ### Level 17: Solar Shield
 You become wreathed in a luminous, magical aura of sunlight.
