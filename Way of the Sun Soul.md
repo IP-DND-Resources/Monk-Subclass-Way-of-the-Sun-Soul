@@ -31,7 +31,7 @@ When you gain the Extra Attack feature, this special attack can be used for any 
 ### Level 6: Sunlight
 As a Magic Action, you can spend 2 Focus Points to channel pure sunlight into objects. 
 
-You touch an object and for the next 1 hour, sunlight spreads and fills a 60-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight. 
+You touch an object and for the next 1 hour, sunlight spreads and fills a 30-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight. 
 
 If any of this effect's area overlaps with an area of Darkness created by a spell of level 3 or lower, that other spell is dispelled.
 
