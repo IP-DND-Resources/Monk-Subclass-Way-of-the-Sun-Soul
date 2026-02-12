@@ -40,7 +40,7 @@ If any of this effect's area overlaps with an area of Darkness created by a spel
 ### Level 6: Searing Arc Strike
 You gain the ability to channel your focus into a searing wave of energy.
 
-As a Bonus Action, you can expend 1 Focus Point to create a searing wave of energy in a 15-foot cone. Each creature in that area makes a Dexterity saving throw, taking Radiant damage equal to two rolls of your Martial Arts Die on a failed save, or half as much damage on a successful one. 
+As a Bonus Action, you can expend 2 Focus Points to create a searing wave of energy in a 15-foot cone. Each creature in that area makes a Dexterity saving throw, taking Radiant damage equal to two rolls of your Martial Arts Die on a failed save, or half as much damage on a successful one. 
 
 For each additional Focus Point you spend, up to a maxiumum number of points equal to your Wisdom modifier (minimum of 1), increases the number of Martial Arts die you roll by 1 and increases the size of the cone by 5 feet, up to a maximum of 30 feet.
 
