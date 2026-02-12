@@ -49,6 +49,8 @@ You create a devestating burst of sunlight. As a Magic action, you can expend 3 
 
 Each creature in that area makes Consitution saving throw, taking Radiant damage equal to 5 rolls of your Martial Arts die on a failed save, or half as much on a successful one. If a creature fails this save by 5 or more it also has the Blinded condition until the end of their next turn.
 
+You can spend 1 additional Focus Point to reroll any number of these die, but you must keep the new roll.
+
 ### Level 17: Solar Shield
 You become wreathed in a luminous, magical aura of sunlight.
 
