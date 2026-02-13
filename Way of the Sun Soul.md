@@ -1,7 +1,7 @@
 <!-- https://homebrewery.naturalcrit.com/share/Fi0Q-qfjXDhm -->
 
 <div class='artist' style='top:30px;right:100px;'>
-[v0.1.0](https://github.com/IP-DND-Resources/Monk-Subclass-Way-of-the-Sun-Soul/tree/main)
+[v0.1.1](https://github.com/IP-DND-Resources/Monk-Subclass-Way-of-the-Sun-Soul/tree/main)
 </div>
 
 <div class='artist' style='top:40px;right:100px;'>
@@ -22,11 +22,7 @@ You know the Dancing Lights Cantrip and can cast it without Verbal or Material c
 ### Level 3: Radiant Sun Bolt
 You can hurl bolts of magical radiance.
 
-You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d6. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk table.
-
-You can expend 1 Focus Point to make the special attack twice as a Bonus action.
-
-When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
+You gain a new attack option that you can use in place of any Unarmed Strike or weapon attack on your turn. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d6. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk table.
 
 ### Level 6: Sunlight
 As a Magic Action, you can expend 2 Focus Points to channel pure sunlight into objects. 
@@ -58,8 +54,8 @@ You shed bright light in a 30-foot radius and dim light for an additional 30 fee
 
 ***Sun Shield.*** If a creature hits you with a melee attack while this light shines, the attacking creature takes Radiant damage equal to 5 + your Wisdom modifier. If the attack includes Radiant or Necrotic damage, you may also reduce the damage taken from that attack by the same amount.
 
-{{imageMaskCorner8,--offsetX:-41%,--offsetY:-41%,--rotation:0
-  ![](https://raw.githubusercontent.com/IP-DND-Resources/Monk-Subclass-Way-of-the-Sun-Soul/refs/heads/main/img/ooso70spcedg1.jpeg){height:500px,left:-125px,bottom:-40px}
+{{imageMaskCorner8,--offsetX:-44%,--offsetY:-35%,--rotation:0
+  ![](https://raw.githubusercontent.com/IP-DND-Resources/Monk-Subclass-Way-of-the-Sun-Soul/refs/heads/main/img/ooso70spcedg1.jpeg){height:500px,left:-125px,bottom:-20px}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
      Use --offsetY to shift the mask up or down
