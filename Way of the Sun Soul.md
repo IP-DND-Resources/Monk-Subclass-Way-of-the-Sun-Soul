@@ -22,7 +22,7 @@ You know the Dancing Lights Cantrip and can cast it without Verbal or Material c
 ### Level 3: Radiant Sun Bolt
 You can hurl bolts of magical radiance.
 
-You gain a new attack option that you can use in place of any Unarmed Strike or weapon attack on your turn. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d6. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk table.
+You gain a new attack option that you can use in place of any Unarmed Strike on your turn. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d6. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk table.
 
 ### Level 6: Sunlight
 As a Magic Action, you can expend 2 Focus Points to channel pure sunlight into objects. 
